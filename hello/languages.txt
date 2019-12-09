@@ -1,0 +1,7 @@
+Php: Rasmus Lerdorf
+Eklenecek 1. sentence
+Eklenecek 1. sentence
+Python : Guido Van Rossum
+Java : James Gosling
+C : Dennis Ritchie
+Php: Rasmus Lerdorf
